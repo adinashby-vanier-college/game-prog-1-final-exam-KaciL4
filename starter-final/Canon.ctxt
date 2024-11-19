@@ -1,7 +1,11 @@
 #BlueJ class context
 comment0.target=Canon
-comment0.text=\r\n\ \r\n
+comment0.text=\r\n\ I\ DID\ NOTHING\ FOR\ THE\ CANON\ (I\ try\ but\ i\ didn't\ work\ \:/)\ \r\n
 comment1.params=
-comment1.target=void\ act()
+comment1.target=Canon()
 comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Canon\ wants\ to\ do.\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
-numComments=2
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ fire()
+numComments=4
